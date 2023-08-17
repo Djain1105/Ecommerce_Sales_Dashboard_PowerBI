@@ -5,7 +5,10 @@ This Project is based on the analysis of E-Commerce sales based on which we gene
 Tools Used:
 Microsoft Power BI
 
-Created a interactive dashboard using Power BI to track & analyze online sales data. Used complex parameters to drill down in worksheet & customization using filters & slicers. Created connections, join new tables, calculations to manipulate data & enable user driven parameters for visualizations. Used different types of customized visualization (bar chart, donut chart, slicers, etc.)
+1. Created a interactive dashboard using Power BI to track & analyze online sales data. 
+2. Used complex parameters to drill down in worksheet & customization using filters & slicers.
+3. Created connections, join new tables, calculations to manipulate data & enable user driven parameters for visualizations.
+4. Used different types of customized visualization (bar chart, donut chart, slicers, etc.)
 
 Points with the main foucs:
 
