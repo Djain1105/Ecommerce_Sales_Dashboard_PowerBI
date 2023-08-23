@@ -15,3 +15,7 @@ Quantity by Category
 Quantity by PaymentMode
 Top States (By Amount)
 Top Customers (By Amount)
+
+## Tools Used
+* Microsoft Power BI
+
