@@ -2,9 +2,6 @@
 
 This Project is based on the analysis of E-Commerce sales based on which we generated a report to answer some of the crucial questions that will help in increasing the sales and overall growth of the store.
 
-Tools Used:
-Microsoft Power BI
-
 1. Created a interactive dashboard using Power BI to track & analyze online sales data. 
 2. Used complex parameters to drill down in worksheet & customization using filters & slicers.
 3. Created connections, join new tables, calculations to manipulate data & enable user driven parameters for visualizations.
