@@ -19,3 +19,5 @@ Top Customers (By Amount)
 ## Tools Used
 * Microsoft Power BI
 
+## Dashboard Snapshot
+![Dashboard_Image](https://github.com/Djain1105/Ecommerce_Sales_Dashboard_PowerBI/blob/main/Dashboard_Image.png)
